@@ -3,13 +3,12 @@ version 1.1
 Just to simulate content in a programming source code
 All statements starts as "Code A" in this file
 ********************/
-
 1. Code Duo Fibonaci
-2. Code Duo Fibonaci
+2. Code Uno Prime
 3. Code Duo Fibonaci
 4. Code A
 5. Code Duo Fibonaci
 6. Code A
-7. Code A
+7. Code Uno Prime
 8. Code Duo Fibonaci
 9. Code A
